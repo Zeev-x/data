@@ -1,0 +1,35 @@
+body {
+  width: 60%;
+  margin: auto;
+}
+.title {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 1px;
+  font-size: 120%;
+  margin: auto;
+}
+.bar {
+  background-color: aqua;
+  margin: auto;
+}
+.bar a {
+  text-decoration: none;
+  padding-left: 10px;
+}
+.content {
+  background-color: #0000007f;
+  padding: 20px;
+  margin: auto;
+  color: white;
+}
+#result {
+  text-align: center;
+}
+.footer {
+  text-align: right;
+  margin-right: 10px;
+  margin-top: 0px;
+  color: #ffffff73;
+}
